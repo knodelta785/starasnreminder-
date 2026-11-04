@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="navy">#0B1F4D</color>
+    <color name="blue">#1F5EDC</color>
+    <color name="amber">#FFB300</color>
+    <color name="bg">#F2F5FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="divider">#E8ECF4</color>
+    <color name="chip_checked">#D6E4FF</color>
+    <color name="text_primary">#101828</color>
+    <color name="text_secondary">#667085</color>
+    <color name="red">#E53935</color>
+    <color name="red_bg">#FFF1F0</color>
+    <color name="green">#1FA463</color>
+    <color name="green_bg">#EAF8EF</color>
+</resources>

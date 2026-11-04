@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_accounts"
+        android:title="Akun STAR ASN"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sync_now"
+        android:title="Sinkron sekarang"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sync_diag"
+        android:title="Diagnostik Sinkron"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_alarm_in"
+        android:title="Alarm Absen Masuk"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_alarm_out"
+        android:title="Alarm Absen Pulang"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_default_time"
+        android:title="Jam Absen Default"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_background"
+        android:title="Mode Latar Belakang"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_reset"
+        android:title="Reset Data Lokal"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_permissions"
+        android:title="Izin &amp; Baterai"
+        app:showAsAction="never" />
+</menu>
